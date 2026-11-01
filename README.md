@@ -1,4 +1,4 @@
-# animaapp-com
+# Anima
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,111 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-animaapp-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://animaapp.com/
+Anima (Anima App, Inc.) is an AI‑powered design agent that transforms Figma designs, URLs, and text prompts into production‑ready web applications. It offers a platform for product teams to build directly and an API for coding agents and AI development platforms, powering services like Bolt.new, Replit, and ChatAndBuild. Founded in 2017, Anima provides features such as design‑to‑code conversion, custom domains, databases, and real‑time collaboration.
+
+**Areas:** AI · Design · CodeGeneration · API · Platform
+
+## Anima on APIs.io
+
+Everything profiled for Anima is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/animaapp-com/](https://apis.io/providers/animaapp-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Anima API](https://apis.io/apis/animaapp-com/anima-api/) — Anima’s API lets you expand your product offering by turning Figma designs or live websites into clean, production-ready code.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Animaapp Com Domain Security](https://apis.io/security/animaapp-com/animaapp-com-domain-security/)
+- [Animaapp Com Vulnerability Disclosure](https://apis.io/security/animaapp-com/animaapp-com-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Animaapp Com Plans Pricing](https://apis.io/plans/animaapp-com/animaapp-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Animaapp Com Rate Limits](https://apis.io/rate-limits/animaapp-com/animaapp-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.animaapp.com/)
+- [Documentation](https://docs.animaapp.com/)
+- [Getting started](https://docs.animaapp.com/docs/getting-started)
+- [API reference](https://docs.animaapp.com/docs/anima-api)
+- [Pricing](https://www.animaapp.com/pricing)
+- [Support](https://support.animaapp.com/)
+- [Changelog](https://www.animaapp.com/changelog)
+- [Blog](https://www.animaapp.com/blog/)
+- [Security](https://support.animaapp.com/en/articles/2726094-security-at-anima)
+- [Terms of service](https://animaapp.s3.amazonaws.com/home/TOS.pdf)
+- [Privacy policy](https://animaapp.s3.amazonaws.com/home/TOS.pdf)
+- [GitHub](https://github.com/AnimaApp/)
+- [Status](https://status.animaapp.com/)
+
+## API Evangelist rating
+
+**Kin Score 33.9** — thin · rubric 0.26.0 · scored 2026-11-01
+
+| Facet | Score |
+|---|---|
+| Discoverability | 56.7 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 47.4 |
+| Developer ergonomics | 59.5 |
+| Access clarity | 44.7 |
+
+**Agent readiness 27.2** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 23.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/animaapp-com/](https://apis.io/providers/animaapp-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Anima: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/animaapp-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
